@@ -1,0 +1,5 @@
+vecna.log
+__pycache__/
+apks/*
+.vscode
+.DS_Store
